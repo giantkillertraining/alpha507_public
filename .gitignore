@@ -1,0 +1,6 @@
+*.backup
+__deleted.deleted/
+*._a5wcmp_manifest
+*._a5wcmp_compiled
+*._a5wcmp_metadata
+/lastSelectedProfile
